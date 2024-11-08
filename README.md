@@ -1,6 +1,6 @@
 # Trabajos_Stiven
 
-## se agrego una carpeta llamada Consultas Dia 1.
+## se agrego una carpeta llamada Dia 1.
 
 ### contenido de la carpeta
 ```
